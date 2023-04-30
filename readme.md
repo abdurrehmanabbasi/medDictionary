@@ -5,6 +5,9 @@ This is a medical dictionary app that provides definitions, pronunciations with 
 ## Features
 - Search for medical terms and get their definitions, pronunciations with audio, and related images.
 
+## Screenshots
+![App Screenshot](https://github.com/abdurrehmanabbasi/medDictionary/blob/master/screenshot.gif)
+
 # To get started with the app, follow these steps:
 - Clone the repository to your local machine.
 - Run npm install to install the project dependencies.
